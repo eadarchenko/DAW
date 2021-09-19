@@ -1,0 +1,9 @@
+5 hojas de css-una hoja para cada de html
+1 css de navegación
+-selector class
+selector id
+selector multiple
+-margin ,padding,algo centrado con css
+
+formulario con css grid
+eliminar estilos html

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <title>Formulario</title>
+
+
+</head>
+
+<body>
+
+
+    <h3>Rellena el formulario </h3>
+
+    <form method="get" action="ws/crearUsuarios.php" name="formulario">
+        <div>
+            <label for="id">ID</label>
+            <input type="text" name="id" id="id">
+        </div>
+        <div>
+            <label for="nombre">Nombre</label>
+            <input type="text" name="nombre" id="nombre">
+        </div>
+        <div>
+            <label for="apellido">Apellido</label>
+            <input type="text" name="apellido" id="apellido">
+        </div>
+        <div>
+            <label>Password</label>
+            <input type="text" name="password" id="password">
+        </div>
+        <div>
+            <label>Telefono</label>
+            <input type="text" name="telefono" id="telefono">
+        </div>
+        <div>
+            <label>Email</label>
+            <input type="text" name="contasena" id="contrasena">
+
+        </div>
+        <div>
+            <p>Sexo:</p>
+            <input type="radio" id="masculino" name="sexo" value="masculino">
+            <label for="masculino">Masculino</label><br>
+            <input type="radio" id="femenino" name="sexo" value="femenino">
+            <label for="femenino">Femenino</label><br>
+        </div>
+        <div>
+            <label>Fecha Nacimieto</label>
+            <input type="date" name="fecha_nacimiento" id="fecha_nacimiento">
+
+        </div>
+        <div>
+            <button type="submit" name="enviar" class="btn">Enviar formulario</button>
+        </div>
+        <div>
+            <button type="submit" name="borrar" class="btn">Borrar Alumno</button>
+        </div>
+        <div>
+            <button type="submit" name="modificar" class="btn">Modificar Alumno</button>
+        </div>
+
+    </form>
+</body>
+
+</html>

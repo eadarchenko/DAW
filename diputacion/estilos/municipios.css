@@ -1,0 +1,31 @@
+.primero {
+    text-align: center;
+    font-size: 65px;
+    text-decoration-color: black;
+}
+
+table {
+    border: blue double 2px;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 150px;
+    margin-bottom: 150px;
+}
+
+p {
+    font-size: 45px;
+}
+
+img {
+    width: 40%;
+    border: black solid 2px;
+    margin-left: 28em;
+}
+
+#t1 {
+    margin-left: 5em;
+}
+
+#t2 {
+    margin-left: 8em;
+}

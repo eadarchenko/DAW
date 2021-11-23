@@ -1,0 +1,25 @@
+table {
+    margin-bottom: 25em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    background-color: #c9cae9;
+    border: #6b2ad4 5px solid;
+    float: left;
+    margin-right: 10px;
+    padding: 10px 15px;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #010103;
+    cursor: pointer;
+}

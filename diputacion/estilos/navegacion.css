@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background-color: rgb(91, 189, 214);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    color: rgb(14, 13, 13);
+    background-color: rgb(112, 178, 209);
+    font-size: 55px;
+    text-align: center;
+}

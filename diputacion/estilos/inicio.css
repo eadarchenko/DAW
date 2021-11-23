@@ -1,0 +1,15 @@
+article {
+    margin-bottom: 25px;
+    margin: 5%;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#calendario {
+    width: 95%;
+    height: 85%;
+}

@@ -1,0 +1,13 @@
+form {
+    align-self: center;
+}
+
+#exp {
+    align: center;
+    color: blue;
+}
+
+form {
+    margin: 2em;
+    padding: 5em;
+}
